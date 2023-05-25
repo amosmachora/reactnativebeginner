@@ -12,3 +12,9 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+## A job finding application
+
+Followed a tutorial by JSMastery on youtube.
+
+My first React Native app.
