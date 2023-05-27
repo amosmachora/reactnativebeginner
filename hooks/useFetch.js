@@ -3,7 +3,7 @@ import axios from "axios";
 import defaultResponse from "../util/responses.json";
 
 const useFetch = (endpoint, query) => {
-  const [data, setData] = useState(defaultResponse);
+  const [data, setData] = useState(defaultResponse.data);
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState(null);
 

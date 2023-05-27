@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "reactnativebeginner",
-    "slug": "reactnativebeginner"
+    "slug": "react-native-beginner",
+    "extra": {
+      "eas": {
+        "projectId": "c3755cc2-fa19-4394-a205-b2ac411ea6d2"
+      }
+    },
+    "owner": "amohprince"
   }
 }
